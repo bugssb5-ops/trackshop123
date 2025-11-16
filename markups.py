@@ -11,7 +11,7 @@ def get_main_menu():
     keyboard.add(InlineKeyboardButton(text="🎁 БОНУСЫ", callback_data="bonuses"))
     keyboard.add(InlineKeyboardButton(text="💼 РАБОТА", callback_data="work"))
     keyboard.add(InlineKeyboardButton(text="⭐ ОТЗЫВЫ", callback_data="reviews"))
-    keyboard.add(InlineKeyboardButton(text="👨‍💼 ОПЕРАТОР", url=f"https://t.me/{icelab_manager1}"))
+    keyboard.add(InlineKeyboardButton(text="👨‍💼 ОПЕРАТОР", url=f"https://t.me/{admin_chat}"))
     keyboard.adjust(2)
     return keyboard.as_markup()
 
