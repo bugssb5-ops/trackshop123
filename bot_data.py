@@ -9,7 +9,7 @@ verification = True
 token = "8181659240:AAEf597KTGpbxi3yjEZJQtpGBuvKnzVFKJQ"
 
 shop_name = "icelab"
-admin_chat = "icelab_manager"
+admin_chat = "icelab_manager1"
 feedback_link = "t.me/iceLabfeedback"
 bot_username = "icelab53_bot"
 
